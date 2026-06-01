@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Management System
 
 ## Author
@@ -80,3 +81,4 @@ Admin account can be created directly in MongoDB with role = "admin".
 Aastha Deep
 adeep_be23@thapar.edu
 102303283
+
